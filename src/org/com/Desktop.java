@@ -21,7 +21,7 @@ public class Desktop implements Hardware,Software {
 		d.softwareResources();
 		d.hardwareResources();
 		d.desktopModel();
-		
+		System.out.println("lines aded");
 	}
 
 }
